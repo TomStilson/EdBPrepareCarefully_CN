@@ -1,8 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿lambeth drive
+White BMW<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>EdB Prepare Carefully</name>
-  <author>EdB</author>
-  <packageId>EdB.PrepareCarefully</packageId>
+  <name>EdB Prepare Carefully - 精心准备 - 简&amp;繁中文汉化</name>
+  <author>CNCG779</author>
+  <packageId>CNCG779.PrepareCarefully.cn</packageId>
   <url></url>
   <supportedVersions>
     <li>1.1</li>
@@ -21,13 +22,27 @@
       </li>
     </v1.5>
   </modDependenciesByVersion>
-  <description>Customize your colonists, choose your gear and prepare carefully for your crash landing!
+  <description>
 
-If you get a set of starting colonists that you like, save them as a preset so that you can start your game the same way next time.
+[h1][b]本体汉化Mod，无需加载原Mod[/b][/h1]
+[b]英文名：[/b]EdB Prepare Carefully
+[b]中文名：[/b]EdB 精心准备
 
-[Version 1.5.7]
+[h1][b]简介[/b][/h1]
+定制您的殖民者，选择您的装备，并为您的紧急着陆做好准备！
+如果你得到了一组你喜欢的开始殖民者，将它们保存为预设，这样你下次就可以用同样的方式开始你的游戏。
+
+已包括简体繁体中文汉化。繁体中文部分使用ChatGPT翻译，可能有部分不准确的地方。
+1.4版本的汉化模组暂未更新，所以先上传一份。会根据原Mod更新情况进行更新。
+
+[h1][b]注意事项[/b][/h1]
+未经允许禁止转载。
+若有翻译问题请直接评论区反馈。
+
+[版本 1.5.7]
 </description>
   <loadAfter>
     <li>net.pardeike.rimworld.mod.harmony</li>
   </loadAfter>
 </ModMetaData>
+TR877L
