@@ -1,5 +1,4 @@
-﻿lambeth drive
-White BMW<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>EdB Prepare Carefully - 精心准备 - 简&amp;繁中文汉化</name>
   <author>CNCG779</author>
@@ -36,8 +35,10 @@ White BMW<?xml version="1.0" encoding="utf-8"?>
 1.4版本的汉化模组暂未更新，所以先上传一份。会根据原Mod更新情况进行更新。
 
 [h1][b]注意事项[/b][/h1]
-未经允许禁止转载。
-若有翻译问题请直接评论区反馈。
+原模组：http://steamcommunity.com/sharedfiles/filedetails/?id=735106432
+遵循 MIT 许可协议
+源代码地址：https://github.com/TomStilson/EdBPrepareCarefully_CN
+若有翻译问题请直接评论区反馈，或前往GitHub提交PR。
 
 [版本 1.5.7]
 </description>
@@ -45,4 +46,3 @@ White BMW<?xml version="1.0" encoding="utf-8"?>
     <li>net.pardeike.rimworld.mod.harmony</li>
   </loadAfter>
 </ModMetaData>
-TR877L
