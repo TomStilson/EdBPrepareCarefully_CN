@@ -208,6 +208,9 @@
   <EdB.PC.Dialog.Implant.Button.Confirm>应用</EdB.PC.Dialog.Implant.Button.Confirm>
   <EdB.PC.Dialog.Implant.Conflict>此植入物不能被安装，因为有以下冲突：\n\n- {0}，{1}</EdB.PC.Dialog.Implant.Conflict>
   <EdB.PC.Dialog.Implant.Header>选择一个植入物或仿生体</EdB.PC.Dialog.Implant.Header>
+  <EdB.PC.Dialog.Implant.InstallImplantLabel>植入物 {0}</EdB.PC.Dialog.Implant.InstallImplantLabel>
+  <EdB.PC.Dialog.Implant.RequiredImplantMessage>此植入物必须添加，因为它是你选择的其他植入物所必需的。</EdB.PC.Dialog.Implant.RequiredImplantMessage>
+  <EdB.PC.Dialog.Implant.LevelLabel>{0}:</EdB.PC.Dialog.Implant.LevelLabel>
 
   <EdB.PC.Dialog.Injury.Header>选择一个状态</EdB.PC.Dialog.Injury.Header>
   <EdB.PC.Dialog.Injury.Error.Required>您必须选择一个状态</EdB.PC.Dialog.Injury.Error.Required>
@@ -262,6 +265,7 @@
   <EdB.PC.Equipment.Type.Apparel>服装</EdB.PC.Equipment.Type.Apparel>
   <EdB.PC.Equipment.Type.Buildings>家具</EdB.PC.Equipment.Type.Buildings>
   <EdB.PC.Equipment.Type.Food>食物</EdB.PC.Equipment.Type.Food>
+  <EdB.PC.Equipment.Type.Mechs>机械体</EdB.PC.Equipment.Type.Mechs>
   <EdB.PC.Equipment.Type.Medical>药物</EdB.PC.Equipment.Type.Medical>
   <EdB.PC.Equipment.Type.Resources>资源</EdB.PC.Equipment.Type.Resources>
   <EdB.PC.Equipment.Type.Weapons>武器</EdB.PC.Equipment.Type.Weapons>
@@ -269,10 +273,12 @@
   <EdB.PC.Equipment.LoadingProgress.StuffDefs>材料加载中…</EdB.PC.Equipment.LoadingProgress.StuffDefs>
   <EdB.PC.Equipment.LoadingProgress.ThingDefs>物品加载中…</EdB.PC.Equipment.LoadingProgress.ThingDefs>
   <EdB.PC.Equipment.LoadingProgress.Finished>完成</EdB.PC.Equipment.LoadingProgress.Finished>
+  <EdB.PC.Equipment.SelectedEquipment.OverseenChanceLabel>{0}: {1}%</EdB.PC.Equipment.SelectedEquipment.OverseenChanceLabel>
   <EdB.PC.Equipment.SelectedEquipment.SpawnType.SpawnsWith>与殖民者一起生成</EdB.PC.Equipment.SelectedEquipment.SpawnType.SpawnsWith>
   <EdB.PC.Equipment.SelectedEquipment.SpawnType.SpawnsNear>在殖民者附近生成</EdB.PC.Equipment.SelectedEquipment.SpawnType.SpawnsNear>
   <EdB.PC.Equipment.SelectedEquipment.SpawnType.Possession>持有者 - {0}</EdB.PC.Equipment.SelectedEquipment.SpawnType.Possession>
   <EdB.PC.Equipment.SelectedEquipment.SpawnType.Animal>动物</EdB.PC.Equipment.SelectedEquipment.SpawnType.Animal>
+  <EdB.PC.Equipment.SelectedEquipment.SpawnType.Mech>机械体</EdB.PC.Equipment.SelectedEquipment.SpawnType.Mech>
   <EdB.PC.Equipment.AvailableEquipment.AllCategoriesOption>所有种类</EdB.PC.Equipment.AvailableEquipment.AllCategoriesOption>
   <EdB.PC.Equipment.AvailableEquipment.AllModsOption>所有扩展</EdB.PC.Equipment.AvailableEquipment.AllModsOption>
   <EdB.PC.Equipment.AvailableEquipment.CostLabelAndValue>点数: {0}</EdB.PC.Equipment.AvailableEquipment.CostLabelAndValue>
@@ -281,8 +287,11 @@
   <EdB.PC.Equipment.AvailableEquipment.GenderLabel>性别:</EdB.PC.Equipment.AvailableEquipment.GenderLabel>
   <EdB.PC.Equipment.AvailableEquipment.HitPointsLabel>袭击点数:</EdB.PC.Equipment.AvailableEquipment.HitPointsLabel>
   <EdB.PC.Equipment.AvailableEquipment.MaterialLabel>材质:</EdB.PC.Equipment.AvailableEquipment.MaterialLabel>
+  <EdB.PC.Equipment.AvailableEquipment.MechCategoryLabel>机械体</EdB.PC.Equipment.AvailableEquipment.MechCategoryLabel>
   <EdB.PC.Equipment.AvailableEquipment.QualityLabel>质量:</EdB.PC.Equipment.AvailableEquipment.QualityLabel>
+  <EdB.PC.Equipment.AvailableEquipment.OverseenChanceLabel>{0}:</EdB.PC.Equipment.AvailableEquipment.OverseenChanceLabel>
   <EdB.PC.Equipment.AvailableEquipment.RandomAnimalLabel>随机宠物</EdB.PC.Equipment.AvailableEquipment.RandomAnimalLabel>
+  <EdB.PC.Equipment.AvailableEquipment.RandomMechLabel>随机机械体</EdB.PC.Equipment.AvailableEquipment.RandomMechLabel>
   <EdB.PC.Equipment.AvailableEquipment.SpawnTypeLabel>生成类型:</EdB.PC.Equipment.AvailableEquipment.SpawnTypeLabel>
   <EdB.PC.Equipment.AvailableEquipment.StyleLabel>风格:</EdB.PC.Equipment.AvailableEquipment.StyleLabel>
 
