@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
     <identifier>CNCG779.PrepareCarefully.cn</identifier>
-    <version>1.5.7</version>
+    <version>1.5.11</version>
     <showCrossPromotions>false</showCrossPromotions>
-    <manifestUri>https://github.com/edbmods/EdBPrepareCarefully/raw/master/Resources/About/Manifest.xml</manifestUri>
-    <downloadUri>https://github.com/edbmods/EdBPrepareCarefully/releases/latest</downloadUri>
+    <manifestUri>https://github.com/TomStilson/EdBPrepareCarefully_CN/blob/master/About/Manifest.xml</manifestUri>
+    <downloadUri>https://github.com/TomStilson/EdBPrepareCarefully_CN/releases/latest</downloadUri>
 </Manifest>
